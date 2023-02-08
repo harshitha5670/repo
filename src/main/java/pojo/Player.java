@@ -4,9 +4,11 @@ import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Getter
 @Setter
+@ToString
 public class Player {
     private String name;
     private String country;
@@ -14,14 +16,4 @@ public class Player {
     @JsonProperty("price-in-crores")
     @JsonAlias("price-in-crores")
     private String priceincrores;
-
-    @Override
-    public String toString() {
-        return "Player{" +
-                "name='" + name + '\'' +
-                ", country='" + country + '\'' +
-                ", role='" + role + '\'' +
-                ", price-in-crores='" + priceincrores + '\'' +
-                '}';
-    }
 }
