@@ -27,3 +27,9 @@ Dependencies
             <artifactId>testng</artifactId>
             <version>7.7.1</version>
         </dependency>  
+        
+Folder Structure: 
+        src/main/java/pojo - DTO for json data
+        src/main/resource - RCBPlayers.json
+        src/test/java/utilities - ReadJson method
+        src/test/java/scripts - Test script for problem statement
