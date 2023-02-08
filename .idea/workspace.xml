@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105f6f38-2732-41ab-92b3-67cef6a12eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/UserDefinedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/scripts/RCBPlayersValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReadJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/RcbPlayers.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/RcbPlayers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/RcbPlayers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/RcbPlayers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pojo/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pojo/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pojo/RcbPlayers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pojo/RcbPlayers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exception/UserDefinedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/scripts/RCBPlayersValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/scripts/RCBPlayersValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReadJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReadJson.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
